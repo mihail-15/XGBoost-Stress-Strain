@@ -1,0 +1,44 @@
+/root/capsule/data/Dataset: C_0.01_stress-strain_data.xlsx
+Test set performance metrics:
+R2 score: 0.99988
+RMSE: 0.03621
+MSE: 0.00131
+MAE: 0.02018
+Validation set performance metrics:
+R2 score: 0.99988
+RMSE: 0.03328
+MSE: 0.00111
+MAE: 0.01984
+/root/capsule/data/Dataset: SC_0.01_stress-strain_data.xlsx
+Test set performance metrics:
+R2 score: 0.99997
+RMSE: 0.03603
+MSE: 0.00130
+MAE: 0.01774
+Validation set performance metrics:
+R2 score: 0.99998
+RMSE: 0.02940
+MSE: 0.00086
+MAE: 0.01511
+/root/capsule/data/Dataset: C_0.001_stress-strain_data.xlsx
+Test set performance metrics:
+R2 score: 0.99997
+RMSE: 0.02135
+MSE: 0.00046
+MAE: 0.01471
+Validation set performance metrics:
+R2 score: 0.99996
+RMSE: 0.02213
+MSE: 0.00049
+MAE: 0.01470
+/root/capsule/data/Dataset: SC_0.001_stress-strain_data.xlsx
+Test set performance metrics:
+R2 score: 0.99999
+RMSE: 0.02255
+MSE: 0.00051
+MAE: 0.01460
+Validation set performance metrics:
+R2 score: 0.99999
+RMSE: 0.02168
+MSE: 0.00047
+MAE: 0.01440
